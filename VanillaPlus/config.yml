@@ -1,0 +1,41 @@
+# Default configuation file for VanillasPlus
+# VanillaPlus created by Dreeass
+# http://dev.bukkit.org/server-mods/vanillaplus
+# The MOTD (message of the day) has to be between 2 ellipses when using color codes! -> ''
+# You can use colorcodes!
+# &0 Black          &a Bright Green
+# &1 Dark Blue      &b Aqua
+# &2 Dark Green     &c Red
+# &3 Dark Aqua      &d Pink
+# &4 Dark Red       &e Yellow
+# &5 Purple         &f White
+# &6 Gold           
+# &7 Gray
+# &8 Dark Gray
+# &9 Indigo
+# Enable the autobroadcasting? true/false
+# Enable autobroadcasting: true
+# The delay in seconds between the autobroadcastmessages.
+# Broadcasttimer: 300
+# Give the color of the broadcast. (colorcode)
+# Broadcastcolor: &a
+# The message to broadcast.
+# Broadcastmessage: ''
+# Display the message of the day on login? true/false
+# MOTD on login: true
+# When typing /motd this will be displayed:
+# MOTD: ''
+# Enables the ability to send messages to afk people. true/false
+# EnableMessagesToAfk: true
+# The amount of time a player has to wait when teleporting
+# when he/she doesn't have the "vanillaplus.teleport.nodelay" permission or is op.
+# Teleport delay: 5
+Enable autobroadcasting: true
+Broadcast timer: 300
+Broadcastcolor: '&a'
+Broadcastmessage: ''
+MOTD on login: true
+MOTD: ''
+EnableMessagesToAfk: true
+Teleport delay: 5
+Commandbookhomes: true

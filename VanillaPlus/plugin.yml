@@ -1,0 +1,62 @@
+name: VanillaPlus
+main: me.Dreeass.VanillaPlus.Main
+version: 0.6
+description: >
+             A plugin which extends the uses of a vanilla Minecraft server.
+commands:
+  afk:
+    description: Set if you're AFK or not.
+  broadcast:
+    description: Broadcasts a message to the server.
+  ban:
+    description: Ban another player.
+  unban:
+    description: Unban another player.
+  give:
+    description: Give someone an item or block.
+  gm:
+    description: Change your or someone else's gamemode.
+  god:
+    description: Disables all damage.
+  heal:
+    description: Heal and feed someone.
+  hide:
+    description: Hide yourself or someone else.
+  home:
+    description: Teleport to your home.
+  sethome:
+    description: Set your home.
+  overwritehome:
+    description: Overwrites your home when trying to set a new one.
+  cancelhome:
+    description: Cancel /sethome.
+  kick:
+    description: Kick another player.
+  list:
+    description: Displays the online players.
+  msg:
+    description: Sends a message to another player.
+  motd:
+    description: Displays the message of the day, edited in config.yml.
+  tp:
+    description: Teleport you or another player to someone else.
+  tphere:
+    description: Teleport someone to your location.
+  spawn:
+    description: Teleport to spawn.
+  setspawn:
+    description: Change the spawn to your location.
+  time:
+    description: Check/change the time to day/night.
+  warp:
+    description: Teleport to a warp.
+  setwarp:
+    description: Set a public warp.
+  overwritewarp:
+    description: Overwrite a warp.
+  cancelwarp:
+    description: Cancel overwriting a warp.
+  weather:
+    description: Set the weather of a world.
+  convert:
+    description: Convert the Commandbook homes and warps to VP's.

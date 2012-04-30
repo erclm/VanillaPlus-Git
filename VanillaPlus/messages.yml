@@ -1,0 +1,10 @@
+# You can configure the messages that are sent by VanillaPlus here!
+# %player = PlayerName
+# Colorcodes are also available.
+AFK-Return: '&3%player &7has returned.'
+AFK-Away-Broadcast: '&3%player &7is now afk.'
+AFK-Away-Player: '&7Type &c/afk&7 again to announce that you are back or move.'
+Ban-Banned: '&3%player&7 has been banned!'
+Ban-AlreadyBanned: '&3%player&7 is already banned!'
+Ban-UnBanned: '&3%player&7 has been unbanned!'
+Ban-NeverBanned: '&3%player&7 has never been banned!'
